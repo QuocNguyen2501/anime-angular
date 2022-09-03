@@ -36,3 +36,6 @@ ngAfterViewInit(): void{
 }
 ```
 Anime functionality only works in ngAfterViewInit() 
+
+## Screenshot
+![Screenshot](https://github.com/QuocNguyen2501/anime-angular/tree/master/src/assets/screenshot.png)
